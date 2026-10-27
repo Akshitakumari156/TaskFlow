@@ -218,11 +218,3 @@ TaskFlow's notification system is fully automatic — no manual setup needed. On
 To test the background completion trigger: start a focus session, force-close the app, wait for the session to end — the `Focus Session Complete 🎉` notification will fire via AlarmManager.
 
 ---
-
-## 📝 License
-
-MIT License — © 2026 **Smruti Ranjan Nayak**
-
-<p align="center">
-  Built with ❤️ for Privacy. <a href="https://sm8uti.com">sm8uti.com</a>
-</p>
